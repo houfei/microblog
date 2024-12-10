@@ -4,7 +4,17 @@
 
 🏷️ Features 🐛 Bug Fixes 💄 Styles 📝 Docs 📦 Releases 🚀 Deployments
 
-## [Version 0.0.1]()
+---
+
+## [Version 0.0.2](https://github.com/houfei/microblog/tree/v0.0.2)
+
+<sup>Released on **2024-12-10**</sup>
+
+### 🏷️ Features
+
+- A Laravel Breeze
+
+## [Version 0.0.1](https://github.com/houfei/microblog/tree/v0.0.1)
 
 <sup>Released on **2024-12-10**</sup>
 
