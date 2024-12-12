@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4a4c5f42055f7ea75a41561c460c364f",
+    "content-hash": "9bddd52256accbe2cfec39411be21b47",
     "packages": [
         {
             "name": "brick/math",
@@ -4847,7 +4847,7 @@
             "version": "v1.18.3",
             "dist": {
                 "type": "zip",
-                "url": "https://mirrors.cloud.tencent.com/repository/composer/laravel/pint/v1.18.3/laravel-pint-v1.18.3.zip",
+                "url": "https://mirrors.tencent.com/repository/composer/laravel/pint/v1.18.3/laravel-pint-v1.18.3.zip",
                 "reference": "cef51821608239040ab841ad6e1c6ae502ae3026",
                 "shasum": ""
             },
