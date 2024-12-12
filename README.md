@@ -18,3 +18,9 @@ CREATE DATABASE `microblog` DEFAULT CHARACTER SET `utf8mb4` COLLATE `utf8mb4_gen
 sudo npm install
 sudo npm run build
 ```
+
+## Shortcuts
+
+```shell
+./vendor/bin/pint
+```
