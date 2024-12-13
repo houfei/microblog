@@ -6,6 +6,14 @@
 
 ---
 
+## [Version 0.0.5](https://github.com/houfei/microblog/tree/v0.0.5)
+
+<sup>Released on **2024-12-13**</sup>
+
+### 🏷️ Features
+
+- A Showing Moments
+
 ## [Version 0.0.4](https://github.com/houfei/microblog/tree/v0.0.4)
 
 <sup>Released on **2024-12-12**</sup>
