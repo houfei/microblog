@@ -6,6 +6,14 @@
 
 ---
 
+## [Version 0.1.0](https://github.com/houfei/microblog/tree/v0.1.0)
+
+<sup>Released on **2024-12-28**</sup>
+
+### 🏷️ Release Version v0.1.0
+
+- U Update README
+
 ## [Version 0.0.7](https://github.com/houfei/microblog/tree/v0.0.7)
 
 <sup>Released on **2024-12-28**</sup>
