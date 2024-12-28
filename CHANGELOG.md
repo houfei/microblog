@@ -6,6 +6,14 @@
 
 ---
 
+## [Version 0.0.7](https://github.com/houfei/microblog/tree/v0.0.7)
+
+<sup>Released on **2024-12-28**</sup>
+
+### 🏷️ Features
+
+- A Deleting Moments
+
 ## [Version 0.0.6](https://github.com/houfei/microblog/tree/v0.0.6)
 
 <sup>Released on **2024-12-28**</sup>
