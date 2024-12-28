@@ -4,7 +4,6 @@ namespace App\Policies;
 
 use App\Models\Moment;
 use App\Models\User;
-use Illuminate\Auth\Access\Response;
 
 class MomentPolicy
 {
@@ -46,7 +45,8 @@ class MomentPolicy
      */
     public function delete(User $user, Moment $moment): bool
     {
-        return false;
+        // return false;
+        return $this->update($user, $moment);
     }
 
     /**
